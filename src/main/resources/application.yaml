@@ -1,0 +1,9 @@
+#spring:
+#  application:
+#    name: DockerSunday
+
+spring:
+  application:
+    name:
+      DockerSunday
+
